@@ -1,0 +1,4 @@
+Kitkat::0.80::9
+Coke::0.80::8
+Fanta::0.80::6
+Dairy Milk::1.20::9
